@@ -8,7 +8,8 @@ namespace AsyncAwait
 		{
 			InitializeComponent();
 
-			MainPage = new AsyncAwaitPage();
+			var page = new MyPage();
+			page.
 		}
 
 		protected override void OnStart()
