@@ -9,7 +9,9 @@ namespace AsyncAwait
 			InitializeComponent();
 
 			var page = new MyPage();
-			page.
+			MainPage = true;
+			this.
+
 		}
 
 		protected override void OnStart()
